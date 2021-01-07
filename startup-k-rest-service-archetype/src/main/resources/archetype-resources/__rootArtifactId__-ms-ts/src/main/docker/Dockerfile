@@ -1,0 +1,4 @@
+FROM startupframework/springboot:1.0
+ARG JAR_FILE
+
+COPY ${JAR_FILE} ${SPRING_BOOT_HOME}/${SPRING_BOOT_ARTIFACT_NAME}
