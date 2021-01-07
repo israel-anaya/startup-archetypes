@@ -15,6 +15,12 @@
 	</parent>
 
 	<dependencies>
+		<!-- Getters y Setters -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
 		<!-- Startup Core -->
 		<dependency>
 			<groupId>org.startupframework</groupId>
