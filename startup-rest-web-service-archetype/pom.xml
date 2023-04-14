@@ -21,16 +21,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.startupframework</groupId>
-	<artifactId>startup-k-rest-service-archetype</artifactId>
+	<artifactId>startup-rest-web-service-archetype</artifactId>
 	<version>1.0.2.RELEASE</version>
 	<packaging>maven-archetype</packaging>
 
-	<name>startup-k-rest-service-archetype</name>
+	<name>startup-rest-service-archetype</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
-
+	
 	<build>
 		<extensions>
 			<extension>

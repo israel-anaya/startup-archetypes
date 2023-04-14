@@ -5,7 +5,7 @@ server:
   port: 0
 spring:
   application:
-    name: ${rootArtifactId}-ms-et
+    name: ${rootArtifactId}-ms-ts
   security:
     oauth2:
       resourceserver:

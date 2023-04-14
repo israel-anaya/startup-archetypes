@@ -1,5 +1,8 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
 server:
-  port: ${PORT:0}
+  port: 0
 spring:
   application:
     name: ${rootArtifactId}-ms-et
